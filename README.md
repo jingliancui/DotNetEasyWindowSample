@@ -17,6 +17,6 @@ QQ Group:
 
 WeChat Official Account(微信公众号):
 
-Xamarin Library
+MAUI Library
 
 <img src="https://github.com/jingliancui/DotNetEasyWindowSample/blob/master/Images/wechatqrcode.jpg?raw=true"/>
